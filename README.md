@@ -1,2 +1,2 @@
-# Unity_game
-An asteroid shooter unity game
+# Unity game
+An asteroid shooter game in Unity
